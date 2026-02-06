@@ -20,7 +20,7 @@ Eigenschaften
 
 Modernes, klares Layout
 
-Responsive Design (Desktop, Tablet, Smartphone)
+Responsive Design (Desktop, Tablet)
 
 Schnelle Ladezeiten
 
@@ -28,15 +28,13 @@ Intuitive Navigation
 
 Sauber strukturierter Code
 
-Technologien
+Gecoded in :
 
 HTML
-
 CSS
-
 Java
 
-Hinweis
+HINWEIS :
 
 Dieses Projekt dient als Konzept und Demonstration für eine mögliche neue Schulwebsite.
 
